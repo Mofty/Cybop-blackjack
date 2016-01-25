@@ -1,0 +1,11 @@
+<node>
+
+    <node name="ping" channel="inline" format="command/ping" model="">
+        <node name="host" channel="inline" format="text/plain" model="www.google.com"/>
+        <node name="count" channel="inline" format="text/plain" model="5"/>
+        <node name="interface" channel="inline" format="text/plain" model="eth0"/>
+    </node>
+
+    <node name="exit" channel="inline" format="live/exit" model=""/>
+
+</node>
