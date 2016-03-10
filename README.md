@@ -2,4 +2,4 @@
 
 this project is executable with the cybop project
 
- [CYBOP](http://http://www.nongnu.org/cybop/) 
+ [CYBOP](http://www.nongnu.org/cybop/) 
